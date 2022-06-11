@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/simsj93/personal-site/issues"
   },
-  "homepage": "https://github.com/simsj93/personal-site#readme",
+  "homepage": "https://github.com/simsj93/personal-site",
   "dependencies": {
     "gh-pages": "^4.0.0"
   }
