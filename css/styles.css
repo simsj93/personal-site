@@ -125,6 +125,7 @@ header {
 
 .intro__img {
     box-shadow: var(--bs);
+    margin-top: 4rem;
 }
 
 .section__subtitle--intro {
